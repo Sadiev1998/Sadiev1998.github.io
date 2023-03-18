@@ -25,12 +25,15 @@ organizations:
     url: https://www.kaust.edu.sa/en
 education:
   courses:
+    - year: ""
+      course: "PhD Student in Computer Science "
+      institution: "King Abdullah University of Science and Technology "
     - course: MSc in Applied Mathematics and Physics
       institution: Moscow Institute of Physics and Technology
-      year: 2022
+      year: ""
     - course: BSc in Applied Mathematics and Physics
       institution: Moscow Institute of Physics and Technology
-      year: 2020
+      year: ""
 superuser: true
 status:
   ? icon
