@@ -27,6 +27,6 @@ publication: "*Mathematical Optimization Theory and Operations Research: Recent
   5--10, 2021, Revised Selected Papers 20*"
 featured: false
 date: 2021-02-28
-publishDate: 2021-02-28T15:24:26.269310Z
+publishDate: 2021-02-28
 
 ---
