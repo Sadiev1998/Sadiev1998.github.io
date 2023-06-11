@@ -38,5 +38,5 @@ lastmod: 2023-03-16T18:24:25+03:00
 publication: "*EURO Journal on Computational Optimization*"
 featured: false
 date: 2022-02-04
-publishDate: 2023-03-16T15:24:25.659459Z
+publishDate: 2022-02-04
 ---
