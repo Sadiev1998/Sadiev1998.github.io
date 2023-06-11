@@ -1,8 +1,8 @@
 ---
 title: Abdurakhmon Sadiev
 role: PhD Student in Computer Science
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research interests include Optimization, Variational Inequalities and
+  Federated Learning.
 interests:
   - Optimization
   - Variational Inequalities
