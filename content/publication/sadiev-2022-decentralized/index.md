@@ -25,6 +25,7 @@ abstract: This paper considers the problem of decentralized, personalized
   learning. Numerical experiments are presented to demonstrate the practical
   performance of our methods.
 draft: false
+url_pdf:https://arxiv.org/pdf/2107.07190.pdf
 tags: []
 categories: []
 projects: []
@@ -36,6 +37,6 @@ summary: ""
 lastmod: 2023-03-16T18:24:25+03:00
 publication: "*EURO Journal on Computational Optimization*"
 featured: false
-date: 2022-01-01
+date: 2022-02-04
 publishDate: 2023-03-16T15:24:25.659459Z
 ---
