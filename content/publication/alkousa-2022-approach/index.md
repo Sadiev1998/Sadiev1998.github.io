@@ -48,6 +48,8 @@ publication: "*Computer Research and Modeling*"
 featured: false
 date: 2022-01-01
 publishDate: 2022-02-13T15:24:25.327Z
+
+links: 
+url_pdf: https://arxiv.org/pdf/2202.06376.pdf
 ---
 
-url_pdf: https://arxiv.org/pdf/2202.06376.pdf
