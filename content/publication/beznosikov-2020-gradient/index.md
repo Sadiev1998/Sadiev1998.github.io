@@ -8,22 +8,11 @@ authors:
   - Aleksandr Beznosikov
   - Abdurakhmon Sadiev
   - Alexander Gasnikov
-abstract: >-
-  In the paper, we generalize the approach Gasnikov et. al, 2017, which allows
-  solving (stochastic) convex optimization problems with an inexact
-  gradient-free oracle, to the convex-concave saddle-point problem. The proposed
-  approach works, at least, like the best exist- ing approaches. But for a
-  special set-up (simplex type constraints and closeness of Lipschitz constants
-  in 1 and 2 norms) our approach reduces n/log n times the required number of
-  oracle calls (function calculations). Our method uses a stochastic
-  approximation of the gradient via finite differences. In this case, the
-  function must be specified not only on the optimization set itself but in a
-  certain neighbourhood of it. In the sec- ond part of the paper, we analyze the
-  case when such an assumption cannot be made, we propose a general approach on
-  how to modernize
+abstract: In the paper, we generalize the approach Gasnikov et al. 2017, which allows to solve (stochastic) convex optimization problems with an inexact gradient-free oracle, to the convex-concave saddle-point problem. The proposed approach works, at least, like the best existing approaches. But for a special set-up (simplex type constraints and closeness of Lipschitz constants in 1 and 2 norms) our approach reduces  times the required number of oracle calls (function calculations). Our method uses a stochastic approximation of the gradient via finite differences. In this case, the function must be specified not only on the optimization set itself, but in a certain neighbourhood of it. In the second part of the paper, we analyze the case when such an assumption cannot be made, we propose a general approach on how to modernize the method to solve this problem, and also we apply this approach to particular cases ofsomeclassical sets.
 
   the method to solve this problem, and also we apply this approach to particular cases of some classical sets.
 draft: false
+url_pdf: https://arxiv.org/pdf/2005.05913.pdf
 tags: []
 categories: []
 projects: []
@@ -41,5 +30,5 @@ date: 2020-05-12
 publishDate: 2020-05-12T15:24:26.420238Z
 ---
 
-links:
-url_pdf: https://arxiv.org/pdf/2005.05913.pdf
+
+
