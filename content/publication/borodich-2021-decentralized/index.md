@@ -30,6 +30,7 @@ abstract: Personalized Federated Learning (PFL) has recently seen tremendous
   networks with adversarial noise demonstrate the effectiveness of the proposed
   methods.
 draft: false
+url_pdf: https://arxiv.org/pdf/2106.07289v4.pdf
 tags: []
 categories: []
 projects: []
@@ -43,9 +44,6 @@ publication: "*arXiv preprint arXiv:2106.07289*"
 featured: false
 date: 2021-10-24
 publishDate: 2021-10-24T15:24:26.130115Z
-
-links:
-url_pdf: https://arxiv.org/pdf/2106.07289v4.pdf
 ---
 
 
