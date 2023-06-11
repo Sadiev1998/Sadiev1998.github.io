@@ -46,7 +46,7 @@ summary: ""
 lastmod: 2023-03-16T18:24:25+03:00
 publication: "*Computer Research and Modeling*"
 featured: false
-date: 2022-01-01
+date: 2022-02-13
 publishDate: 2022-02-13T15:24:25.327Z
 
 links: 
