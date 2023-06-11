@@ -24,6 +24,7 @@ abstract: "This work considers non-convex finite sum minimization. There are a
   badly scaled problems, and this improved practical performance is demonstrated
   in the numerical experiments that are also presented in this work."
 draft: false
+url_pdf: https://arxiv.org/pdf/2206.00285.pdf
 tags: []
 categories: []
 projects: []
@@ -35,6 +36,6 @@ summary: ""
 lastmod: 2023-03-16T18:24:25+03:00
 publication: "*arXiv preprint arXiv:2206.00285*"
 featured: false
-date: 2022-01-01
+date: 2022-06-01
 publishDate: 2023-03-16T15:24:25.162447Z
 ---
