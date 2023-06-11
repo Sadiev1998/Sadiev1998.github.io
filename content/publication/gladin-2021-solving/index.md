@@ -10,24 +10,9 @@ authors:
   - Pavel Dvurechensky
   - Aleksandr Beznosikov
   - Mohammad Alkousa
-abstract: >
-  In this paper we consider two types of problems which have some similarity in
-  their structure, namely, min-min problems and min-max saddle-point problems.
-  Our approach is based on considering the outer minimization problem as a
-  minimization problem with inexact oracle. This inexact oracle is calculated
-  via inexact solution of the inner problem, which is either a minimization or a
-  maximization problem. Our main assumptions are that the problem is smooth and
-  the available oracle is mixed: it is only possible to evaluate the gradient
-  w.r.t. the outer block of variables which corresponds to the outer
-  minimization problem, whereas for the inner problem only zeroth-order oracle
-  is available. To solve the inner problem we use accelerated gradient-free
-  method with zeroth-order oracle. To solve the outer problem we use either
-  inexact variant of the Vaydya’s cutting-plane method or a variant of
-  accelerated gradient method. As a result we propose a framework which leads to
-  non- asymptotic complexity bounds for both min-min and min-max problems.
-  Moreover, we estimate separately the number of first- and zeroth-order oracle
-  calls which are sufficient to reach any desired accuracy.
+abstract: In this paper we consider two types of problems which have some similarity in their structure, namely, min-min problems and min-max saddle-point problems. Our approach is based on considering the outer minimization problem as a minimization problem with inexact oracle. This inexact oracle is calculated via inexact solution of the inner problem, which is either a minimization or a maximization problem. Our main assumptions are that the problem is smooth and the available oracle is mixed: it is only possible to evaluate the gradient w.r.t. the outer block of variables which corresponds to the outer minimization problem, whereas for the inner problem only zeroth-order oracle is available. To solve the inner problem we use accelerated gradient-free method with zeroth-order oracle. To solve the outer problem we use either inexact variant of the Vaydya’s cutting-plane method or a variant of accelerated gradient method. As a result we propose a framework which leads to non-asymptotic complexity bounds for both min-min and min-max problems. Moreover, we estimate separately the number of first- and zeroth-order oracle calls which are sufficient to reach any desired accuracy.
 draft: false
+url_pdf: https://arxiv.org/pdf/2103.00434.pdf
 tags: []
 categories: []
 projects: []
@@ -44,7 +29,4 @@ featured: false
 date: 2021-02-28
 publishDate: 2021-02-28T15:24:26.269310Z
 
-
-links:
-url_pdf: https://arxiv.org/pdf/2103.00434.pdf
 ---
