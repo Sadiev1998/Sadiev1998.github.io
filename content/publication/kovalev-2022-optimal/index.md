@@ -6,7 +6,7 @@ publication_types:
 authors:
   - Dmitry Kovalev
   - Aleksandr Beznosikov
-  - admin
+  - Abdurakhmon Sadiev
   - Michael Persiianov
   - Peter Richtárik
   - Alexander Gasnikov
