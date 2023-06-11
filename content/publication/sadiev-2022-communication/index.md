@@ -11,7 +11,7 @@ authors:
 - Peter Richárik
 tags: []
 categories: []
-date: '2022-01-01'
+date: '2022-07-08'
 lastmod: 2023-03-16T18:24:24+03:00
 featured: false
 draft: false
@@ -33,7 +33,7 @@ projects: []
 publishDate: '2022-07-088T15:24:24.841564Z'
 publication_types:
 - '1'
-abstract: ''
+abstract: 'Inspired by a recent breakthrough of Mishchenko et al (2022), who for the first time showed that local gradient steps can lead to provable communication acceleration, we propose an alternative algorithm which obtains the same communication acceleration as their method (ProxSkip). Our approach is very different, however: it is based on the celebrated method of Chambolle and Pock (2011), with several nontrivial modifications: i) we allow for an inexact computation of the prox operator of a certain smooth strongly convex function via a suitable gradient-based method (e.g., GD, Fast GD or FSFOM), ii) we perform a careful modification of the dual update step in order to retain linear convergence. Our general results offer the new state-of-the-art rates for the class of strongly convex-concave saddle-point problems with bilinear coupling characterized by the absence of smoothness in the dual function. When applied to federated learning, we obtain a theoretically better alternative to ProxSkip: our method requires fewer local steps ( $\mathcal{O}\left(\kappa^{\nicefrac{1}{3}}\right)$ or $\mathcal{O}\left(\kappa^{\nicefrac{1}{4}}\right)$, compared to $\mathcal{O}\left(\kappa^{\nicefrac{1}{2}}\right)$ of ProxSkip), and performs a deterministic number of local steps instead. Like ProxSkip, our method can be applied to optimization over a connected network, and we obtain theoretical improvements here as well.'
 publication: ''
 
 tags:
