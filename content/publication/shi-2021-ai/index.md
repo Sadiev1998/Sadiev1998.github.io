@@ -1,39 +1,27 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
-title: 'AI-SARAH: Adaptive and Implicit Stochastic Recursive Gradient Methods'
-subtitle: ''
-summary: ''
+title: "AI-SARAH: Adaptive and Implicit Stochastic Recursive Gradient Methods"
+subtitle: ""
+publication_types:
+  - "3"
 authors:
-- Zheng Shi
-- Abdurakhmon Sadiev
-- Nicolas Loizou
-- Peter Richtárik
-- Martin Takáč
+  - Zheng Shi
+  - Abdurakhmon Sadiev
+  - Nicolas Loizou
+  - Peter Richtárik
+  - Martin Takáč
+abstract: ""
+draft: false
 tags: []
 categories: []
-date: '2021-01-01'
-lastmod: 2023-03-16T18:24:25+03:00
-featured: false
-draft: false
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-03-16T15:24:25.812834Z'
-publication_types:
-- '2'
-abstract: ''
-publication: '*arXiv preprint arXiv:2102.09700*'
+image:
+  caption: ""
+  focal_point: ""
+  preview_only: false
+summary: ""
+lastmod: 2023-03-16T18:24:25+03:00
+publication: "*arXiv preprint arXiv:2102.09700*"
+featured: false
+date: 2021-01-01
+publishDate: 2023-03-16T15:24:25.812834Z
 ---
