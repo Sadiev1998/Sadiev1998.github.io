@@ -6,8 +6,8 @@ title: "Communication acceleration of local gradient methods via an accelerated 
 subtitle: ''
 summary: ''
 authors:
-- admin
-- Dmitry Kovalev url :https://www.dmitry-kovalev.com
+- Abdurakhmon Sadiev
+- Dmitry Kovalev 
 - Peter Richárik
 tags: []
 categories: []
