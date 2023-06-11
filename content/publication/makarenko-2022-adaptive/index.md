@@ -32,6 +32,7 @@ abstract: We propose Adaptive Compressed Gradient Descent (AdaCGD) - a novel
   EF21. In all regimes, our rates are superior compared to all existing adaptive
   compression methods.
 draft: false
+url_pdf: https://arxiv.org/pdf/2211.00188.pdf
 tags: []
 categories: []
 projects: []
@@ -46,8 +47,6 @@ featured: false
 date: 2022-10-31
 publishDate: 2022-10-31T15:24:24.680833Z
 
-links:
-url_pdf: https://arxiv.org/pdf/2211.00188.pdf
 ---
 
 
