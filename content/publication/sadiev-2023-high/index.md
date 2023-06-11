@@ -30,6 +30,7 @@ abstract: "During recent years the interest of optimization and machine learning
   usage of the considered methods for solving problems that do not fit standard
   functional classes studied in stochastic optimization."
 draft: false
+url_pdf: https://arxiv.org/pdf/2302.00999.pdf
 tags: []
 categories: []
 projects: []
@@ -41,6 +42,6 @@ summary: ""
 lastmod: 2023-03-16T18:24:24+03:00
 publication: "*arXiv preprint arXiv:2302.00999*"
 featured: false
-date: 2023-01-01
+date: 2023-02-02
 publishDate: 2023-03-16T15:24:24.402147Z
 ---
