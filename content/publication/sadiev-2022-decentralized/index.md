@@ -1,43 +1,41 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
-title: 'Decentralized personalized federated learning: Lower bounds and optimal algorithm
-  for all personalization modes'
-subtitle: ''
-summary: ''
+title: "Decentralized personalized federated learning: Lower bounds and optimal
+  algorithm for all personalization modes"
+subtitle: ""
+publication_types:
+  - "2"
 authors:
-- Abdurakhmon Sadiev
-- Ekaterina Borodich
-- Aleksandr Beznosikov
-- Darina Dvinskikh
-- Saveliy Chezhegov
-- Rachael Tappenden
-- Martin Takáč
-- Alexander Gasnikov
+  - Abdurakhmon Sadiev
+  - Ekaterina Borodich
+  - Aleksandr Beznosikov
+  - Darina Dvinskikh
+  - Saveliy Chezhegov
+  - Rachael Tappenden
+  - Martin Takáč
+  - Alexander Gasnikov
+abstract: This paper considers the problem of decentralized, personalized
+  federated learning. For centralized personalized federated learning, a penalty
+  that measures the deviation from the local model and its average, is often
+  added to the objective function. However, in a decentralized setting this
+  penalty is expensive in terms of communication costs, so here, a different
+  penalty — one that is built to respect the structure of the underlying
+  computational network — is used instead. We present lower bounds on the
+  communication and local computation costs for this problem formulation and we
+  also present provably optimal methods for decentralized personalized federated
+  learning. Numerical experiments are presented to demonstrate the practical
+  performance of our methods.
+draft: false
 tags: []
 categories: []
-date: '2022-01-01'
-lastmod: 2023-03-16T18:24:25+03:00
-featured: false
-draft: false
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-03-16T15:24:25.659459Z'
-publication_types:
-- '2'
-abstract: ''
-publication: '*EURO Journal on Computational Optimization*'
+image:
+  caption: ""
+  focal_point: ""
+  preview_only: false
+summary: ""
+lastmod: 2023-03-16T18:24:25+03:00
+publication: "*EURO Journal on Computational Optimization*"
+featured: false
+date: 2022-01-01
+publishDate: 2023-03-16T15:24:25.659459Z
 ---
