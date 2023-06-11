@@ -37,7 +37,7 @@ lastmod: 2023-03-16T18:24:25+03:00
 publication: "*Advances in Neural Information Processing Systems 35 (NeurIPS 2022)*"
 featured: false
 date: 2022-02-06
-publishDate: 2022-02-6T15:24:25.476496Z
+publishDate: 2022-02-06
 
 ---
 
