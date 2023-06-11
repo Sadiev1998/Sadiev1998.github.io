@@ -42,7 +42,7 @@ highlight_name: true
 first_name: Abdurakhmon
 email: ""
 ---
-
+**Bio:**\
 I am a PhD student working on optimization for machine learning
 and federated learning at King Abdullah University of Science and Technology (KAUST), 
 advised by [Peter Richtárik](https://richtarik.org).
