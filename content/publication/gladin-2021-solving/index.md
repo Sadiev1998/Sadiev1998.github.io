@@ -10,7 +10,7 @@ authors:
   - Pavel Dvurechensky
   - Aleksandr Beznosikov
   - Mohammad Alkousa
-abstract: In this paper, we consider two types of problems that have some similarity in their structure, namely, min-min problems and min-max saddle-point problems. Our approach is based on considering the outer minimization problem as a minimization problem with an inexact oracle. This inexact oracle is calculated via an inexact solution of the inner problem, which is either minimization or maximization problem. 
+abstract: In this paper, we consider two types of problems that have some similarity in their structure, namely, min-min problems and min-max saddle-point problems. Our approach is based on considering the outer minimization problem as a minimization problem with an inexact oracle. This inexact oracle is calculated via an inexact solution of the inner problem, which is either minimization or maximization problem. Our main assumption is that the available oracle is mixed: it is only possible to evaluate the gradient w.r.t. 
 draft: false
 url_pdf: https://arxiv.org/pdf/2103.00434.pdf
 tags: []
