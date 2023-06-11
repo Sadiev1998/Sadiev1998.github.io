@@ -21,6 +21,7 @@ abstract: Saddle-point problems have recently gained an increased attention from
   demonstrate the practical performance of our zeroth-order methods on practical
   problems.
 draft: false
+url_pdf: https://arxiv.org/pdf/2009.09908.pdf
 tags: []
 categories: []
 projects: []
@@ -34,6 +35,6 @@ publication: "*Mathematical Optimization Theory and Operations Research: Recent
   Trends: 20th International Conference, MOTOR 2021, Irkutsk, Russia, July
   5--10, 2021, Revised Selected Papers 20*"
 featured: false
-date: 2021-01-21
+date: 2021-09-21
 publishDate: 2023-03-16T15:24:25.976829Z
 ---
