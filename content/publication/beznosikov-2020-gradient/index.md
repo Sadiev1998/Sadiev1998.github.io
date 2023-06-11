@@ -37,7 +37,7 @@ publication: "*Mathematical Optimization Theory and Operations Research: 19th
   International Conference, MOTOR 2020, Novosibirsk, Russia, July 6--10, 2020,
   Revised Selected Papers 19*"
 featured: false
-date: 2020-01-01
+date: 2020-05-12
 publishDate: 2020-05-12T15:24:26.420238Z
 ---
 
