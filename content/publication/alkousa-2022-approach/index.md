@@ -35,6 +35,7 @@ abstract: Recently, saddle point problems have received much attention due to
   oracles for the inner maximization problem. Moreover, the complexity of the
   whole proposed approach is then estimated.
 draft: false
+url_pdf: https://arxiv.org/pdf/2202.06376.pdf
 tags: []
 categories: []
 projects: []
@@ -49,7 +50,5 @@ featured: false
 date: 2022-02-13
 publishDate: 2022-02-13T15:24:25.327Z
 
-links: 
-url_pdf: https://arxiv.org/pdf/2202.06376.pdf
 ---
 
