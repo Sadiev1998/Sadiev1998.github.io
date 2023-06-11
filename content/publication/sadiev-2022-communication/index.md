@@ -1,45 +1,35 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
 title: "Communication acceleration of local gradient methods via an accelerated primal-dual
   algorithm with inexact prox"
-subtitle: ''
-summary: ''
+subtitle: ""
+publication_types:
+  - "1"
 authors:
-- Abdurakhmon Sadiev
-- Dmitry Kovalev 
-- Peter Richárik
+  - Abdurakhmon Sadiev
+  - Dmitry Kovalev 
+  - Peter Richárik
+abstract: >
+  Inspired by a recent breakthrough of Mishchenko et al (2022), who for the first time showed that local gradient steps can lead to provable communication acceleration, we propose an alternative algorithm which obtains the same communication acceleration as their method (ProxSkip). Our approach is very different, however: it is based on the celebrated method of Chambolle and Pock (2011), with several nontrivial modifications: i) we allow for an inexact computation of the prox operator of a certain smooth strongly convex function via a suitable gradient-based method (e.g., GD, Fast GD or FSFOM), ii) we perform a careful modification of the dual update step in order to retain linear convergence. Our general results offer the new state-of-the-art rates for the class of strongly convex-concave saddle-point problems with bilinear coupling characterized by the absence of smoothness in the dual function. When applied to federated learning, we obtain a theoretically better alternative to ProxSkip: our method requires fewer local steps ( O(κ1/3) or O(κ1/4), compared to  O(κ1/2) of ProxSkip), and performs a deterministic number of local steps instead. Like ProxSkip, our method can be applied to optimization over a connected network, and we obtain theoretical improvements here as well.
+draft: false
 tags: []
 categories: []
-date: '2022-07-08'
-lastmod: 2023-03-16T18:24:24+03:00
-featured: false
-draft: false
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-07-088T15:24:24.841564Z'
-publication_types:
-- '1'
-abstract: 'Inspired by a recent breakthrough of Mishchenko et al (2022), who for the first time showed that local gradient steps can lead to provable communication acceleration, we propose an alternative algorithm which obtains the same communication acceleration as their method (ProxSkip). Our approach is very different, however: it is based on the celebrated method of Chambolle and Pock (2011), with several nontrivial modifications: i) we allow for an inexact computation of the prox operator of a certain smooth strongly convex function via a suitable gradient-based method (e.g., GD, Fast GD or FSFOM), ii) we perform a careful modification of the dual update step in order to retain linear convergence. Our general results offer the new state-of-the-art rates for the class of strongly convex-concave saddle-point problems with bilinear coupling characterized by the absence of smoothness in the dual function. When applied to federated learning, we obtain a theoretically better alternative to ProxSkip: our method requires fewer local steps ( O(κ1/3) or O(κ1/4), compared to  O(κ1/2) of ProxSkip), and performs a deterministic number of local steps instead. Like ProxSkip, our method can be applied to optimization over a connected network, and we obtain theoretical improvements here as well.'
-publication: ''
-
-tags:
-- Source Themes
+image:
+  caption: ""
+  focal_point: ""
+  preview_only: false
+summary: ""
+lastmod: 2023-03-16T18:24:26+03:00
+publication: "*Mathematical Optimization Theory and Operations Research: Recent
+  Trends: 20th International Conference, MOTOR 2021, Irkutsk, Russia, July
+  5--10, 2021, Revised Selected Papers 20*"
 featured: false
+date: 2021-07-08
+publishDate: 2021-02-28T15:24:26.269310Z
+
 
 links:
 url_pdf: http://arxiv.org/pdf/2207.03957
 ---
+
+
