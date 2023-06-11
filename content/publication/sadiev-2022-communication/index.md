@@ -33,7 +33,7 @@ tags: []
 categories: []
 summary: ""
 lastmod: 2023-03-16T18:24:26+03:00
-publication: "* Advances in Neural Information Processing Systems 35 (NeurIPS 2022)*"
+publication: "*Advances in Neural Information Processing Systems 35 (NeurIPS 2022)*"
 date: 2022-07-08
 links: null
 projects: []
@@ -41,5 +41,5 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
-publishDate: 2021-02-28T15:24:26.269Z
+publishDate: 2022-07-08
 ---
