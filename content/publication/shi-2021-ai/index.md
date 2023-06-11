@@ -20,6 +20,7 @@ abstract: We present AI-SARAH, a practical variant of SARAH. As a variant of
   counterparts and other state-of-the-art first-order methods in solving convex
   machine learning problems.
 draft: false
+url_pdf: https://arxiv.org/pdf/2102.09700v2.pdf
 tags: []
 categories: []
 projects: []
@@ -31,6 +32,6 @@ summary: ""
 lastmod: 2023-03-16T18:24:25+03:00
 publication: "*arXiv preprint arXiv:2102.09700*"
 featured: false
-date: 2023-06-11T07:38:08.171Z
+date: 2022-01-31
 publishDate: 2023-03-16T15:24:25.812Z
 ---
