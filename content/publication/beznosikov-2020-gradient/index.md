@@ -38,5 +38,8 @@ publication: "*Mathematical Optimization Theory and Operations Research: 19th
   Revised Selected Papers 19*"
 featured: false
 date: 2020-01-01
-publishDate: 2023-03-16T15:24:26.420238Z
+publishDate: 2020-05-12T15:24:26.420238Z
 ---
+
+links:
+url_pdf: https://arxiv.org/pdf/2005.05913.pdf
