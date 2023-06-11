@@ -25,7 +25,7 @@ abstract: This paper considers the problem of decentralized, personalized
   learning. Numerical experiments are presented to demonstrate the practical
   performance of our methods.
 draft: false
-url_pdf:https://arxiv.org/pdf/2107.07190.pdf
+url_pdf: https://arxiv.org/pdf/2107.07190.pdf
 tags: []
 categories: []
 projects: []
