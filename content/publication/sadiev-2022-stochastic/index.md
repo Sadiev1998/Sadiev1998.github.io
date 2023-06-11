@@ -1,40 +1,40 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
 title: Stochastic gradient methods with preconditioned updates
-subtitle: ''
-summary: ''
+subtitle: ""
+publication_types:
+  - "3"
 authors:
-- Abdurakhmon Sadiev
-- Aleksandr Beznosikov
-- Abdulla Jasem Almansoori
-- Dmitry Kamzolov
-- Rachael Tappenden
-- Martin Takáč
+  - Abdurakhmon Sadiev
+  - Aleksandr Beznosikov
+  - Abdulla Jasem Almansoori
+  - Dmitry Kamzolov
+  - Rachael Tappenden
+  - Martin Takáč
+abstract: "This work considers non-convex finite sum minimization. There are a
+  number of algorithms for such problems, but existing methods often work poorly
+  when the problem is badly scaled and/or ill-conditioned, and a primary goal of
+  this work is to introduce methods that alleviate this issue. Thus, here we
+  include a preconditioner that is based upon Hutchinson’s approach to
+  approximating the diagonal of the Hessian, and couple it with several gradient
+  based methods to give new ‘scaled’ algorithms: Scaled SARAH and Scaled L-SVRG.
+  Theoretical complexity guarantees under smoothness assumptions are presented,
+  and we prove linear convergence when both smoothness and the PL-condition is
+  assumed. Because our adaptively scaled methods use approximate partial second
+  order curvature information, they are better able to mitigate the impact of
+  badly scaled problems, and this improved practical performance is demonstrated
+  in the numerical experiments that are also presented in this work."
+draft: false
 tags: []
 categories: []
-date: '2022-01-01'
-lastmod: 2023-03-16T18:24:25+03:00
-featured: false
-draft: false
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-03-16T15:24:25.162447Z'
-publication_types:
-- '2'
-abstract: ''
-publication: '*arXiv preprint arXiv:2206.00285*'
+image:
+  caption: ""
+  focal_point: ""
+  preview_only: false
+summary: ""
+lastmod: 2023-03-16T18:24:25+03:00
+publication: "*arXiv preprint arXiv:2206.00285*"
+featured: false
+date: 2022-01-01
+publishDate: 2023-03-16T15:24:25.162447Z
 ---
