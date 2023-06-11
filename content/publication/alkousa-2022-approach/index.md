@@ -44,7 +44,7 @@ image:
   preview_only: false
 summary: ""
 lastmod: 2023-03-16T18:24:25+03:00
-publication: "*arXiv preprint arXiv:2202.06376*"
+publication: Computer Research and Modeling
 featured: false
 date: 2022-01-01
 publishDate: 2023-03-16T15:24:25.327763Z
