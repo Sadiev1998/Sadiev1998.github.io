@@ -31,6 +31,7 @@ abstract: Gradient compression is a popular technique for improving
   convergence results for the proposed methods and outline several settings in
   which they improve upon existing algorithms.
 draft: false
+url_pdf: https://arxiv.org/pdf/2206.07021.pdf
 tags: []
 categories: []
 projects: []
@@ -42,6 +43,6 @@ summary: ""
 lastmod: 2023-03-16T18:24:25+03:00
 publication: "*arXiv preprint arXiv:2206.07021*"
 featured: false
-date: 2022-01-01
+date: 2022-06-14
 publishDate: 2023-03-16T15:24:25.004958Z
 ---
