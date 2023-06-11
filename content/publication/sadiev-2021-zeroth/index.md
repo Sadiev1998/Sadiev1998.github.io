@@ -1,40 +1,39 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
 title: Zeroth-order algorithms for smooth saddle-point problems
-subtitle: ''
-summary: ''
+subtitle: ""
+publication_types:
+  - "1"
 authors:
-- Abdurakhmon Sadiev
-- Aleksandr Beznosikov
-- Pavel Dvurechensky
-- Alexander Gasnikov
+  - Abdurakhmon Sadiev
+  - Aleksandr Beznosikov
+  - Pavel Dvurechensky
+  - Alexander Gasnikov
+abstract: Saddle-point problems have recently gained an increased attention from
+  the machine learning community, mainly due to applications in training
+  Generative Adversarial Networks using stochastic gradients. At the same time,
+  in some applications only a zeroth-order oracle is available. In this paper,
+  we propose several algorithms to solve stochastic smooth (strongly)
+  convex-concave saddle-point problems using zeroth-order oracles, and estimate
+  their convergence rate and its dependence on the dimension n of the variable.
+  In particular, our analysis shows that in the case when the feasible set is a
+  direct product of two simplices, our convergence rate for the stochastic term
+  is only by a log𝑛 factor worse than for the first-order methods. Finally, we
+  demonstrate the practical performance of our zeroth-order methods on practical
+  problems.
+draft: false
 tags: []
 categories: []
-date: '2021-01-01'
-lastmod: 2023-03-16T18:24:26+03:00
-featured: false
-draft: false
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-03-16T15:24:25.976829Z'
-publication_types:
-- '1'
-abstract: ''
-publication: '*Mathematical Optimization Theory and Operations Research: Recent Trends:
-  20th International Conference, MOTOR 2021, Irkutsk, Russia, July 5--10, 2021, Revised
-  Selected Papers 20*'
+image:
+  caption: ""
+  focal_point: ""
+  preview_only: false
+summary: ""
+lastmod: 2023-03-16T18:24:26+03:00
+publication: "*Mathematical Optimization Theory and Operations Research: Recent
+  Trends: 20th International Conference, MOTOR 2021, Irkutsk, Russia, July
+  5--10, 2021, Revised Selected Papers 20*"
+featured: false
+date: 2021-01-01
+publishDate: 2023-03-16T15:24:25.976829Z
 ---
