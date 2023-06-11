@@ -1,39 +1,48 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
 title: Adaptive Compression for Communication-Efficient Distributed Training
-subtitle: ''
-summary: ''
+subtitle: ""
+publication_types:
+  - "3"
 authors:
-- Maksim Makarenko
-- Elnur Gasanov
-- Rustem Islamov
-- Abdurakhmon Sadiev
-- Peter Richtárik
+  - Maksim Makarenko
+  - Elnur Gasanov
+  - Rustem Islamov
+  - Abdurakhmon Sadiev
+  - Peter Richtárik
+abstract: We propose Adaptive Compressed Gradient Descent (AdaCGD) - a novel
+  optimization algorithm for communication-efficient training of supervised
+  machine learning models with adaptive compression level. Our approach is
+  inspired by the recently proposed three point compressor (3PC) framework of
+  Richtarik et al. (2022), which includes error feedback (EF21), lazily
+  aggregated gradient (LAG), and their combination as special cases, and offers
+  the current state-of-the-art rates for these methods under weak assumptions.
+  While the above mechanisms offer a fixed compression level, or adapt between
+  two extremes only, our proposal is to perform a much finer adaptation. In
+  particular, we allow the user to choose any number of arbitrarily chosen
+  contractive compression mechanisms, such as Top-K sparsification with a
+  user-defined selection of sparsification levels K, or quantization with a
+  user-defined selection of quantization levels, or their combination. AdaCGD
+  chooses the appropriate compressor and compression level adaptively during the
+  optimization process. Besides i) proposing a theoretically-grounded
+  multi-adaptive communication compression mechanism, we further ii) extend the
+  3PC framework to bidirectional compression, i.e., we allow the server to
+  compress as well, and iii) provide sharp convergence bounds in the strongly
+  convex, convex and nonconvex settings. The convex regime results are new even
+  for several key special cases of our general mechanism, including 3PC and
+  EF21. In all regimes, our rates are superior compared to all existing adaptive
+  compression methods.
+draft: false
 tags: []
 categories: []
-date: '2022-01-01'
-lastmod: 2023-03-16T18:24:24+03:00
-featured: false
-draft: false
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-03-16T15:24:24.680833Z'
-publication_types:
-- '2'
-abstract: ''
-publication: '*arXiv preprint arXiv:2211.00188*'
+image:
+  caption: ""
+  focal_point: ""
+  preview_only: false
+summary: ""
+lastmod: 2023-03-16T18:24:24+03:00
+publication: "*arXiv preprint arXiv:2211.00188*"
+featured: false
+date: 2022-01-01
+publishDate: 2023-03-16T15:24:24.680833Z
 ---
