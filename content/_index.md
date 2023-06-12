@@ -5,7 +5,7 @@ date: 2022-10-24
 type: landing
 
 sections:
- - block: v1/about
+  - block: v1/about
     id: about
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
@@ -16,18 +16,9 @@ sections:
       columns: '2'
       align: l
       
-  - block: collection
-    id: talks
-    content:
-      title: Recent & Upcoming Talks
-      filters:
-        folders:
-          - event
-    design:
-      columns: '2'
-      view: compact
       
   - block: collection
+    id: featured
     content:
       title: Recent Publications
       text: |-
