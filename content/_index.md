@@ -15,6 +15,18 @@ sections:
     design:
       columns: '2'
       align: l
+      
+  - block: collection
+    id: talks
+    content:
+      title: Recent & Upcoming Talks
+      filters:
+        folders:
+          - event
+    design:
+      columns: '2'
+      view: compact
+      
   - block: collection
     content:
       title: Recent Publications
