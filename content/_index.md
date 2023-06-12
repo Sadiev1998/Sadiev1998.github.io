@@ -15,10 +15,6 @@ sections:
     design:
       columns: '2'
       align: l
-  
-  
-
-  
   - block: collection
     content:
       title: Recent Publications
