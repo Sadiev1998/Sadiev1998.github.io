@@ -40,7 +40,7 @@ status:
 last_name: Sadiev
 highlight_name: true
 first_name: Abdurakhmon
-email: ""
+email: abdurakhmon.sadiev@kaudt.edu.sa
 ---
 <h1>Biography</h1>
 
