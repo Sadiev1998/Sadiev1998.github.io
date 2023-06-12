@@ -45,4 +45,4 @@ email: abdurakhmon.sadiev@kaudt.edu.sa
 <h1>Biography</h1>
 
 I am a PhD student working on optimization for machine learning
-and federated learning at King Abdullah University of Science and Technology (KAUST), advised by [Peter Richtárik](https://richtarik.org/).  Before that, I completed both my undergraduate and graduate degrees  in applied mathematics and physics at [Moscow Institute of Physics and Technology (MIPT)](https://mipt.ru/english/), where I was supervised by [Alexander Gasnikov](https://scholar.google.com/citations?user=AmeE8qkAAAAJ&hl=en).
+and federated learning at King Abdullah University of Science and Technology (KAUST), advised by professor [Peter Richtárik](https://richtarik.org/).  Before that, I completed both my undergraduate and graduate degrees  in applied mathematics and physics at [Moscow Institute of Physics and Technology (MIPT)](https://mipt.ru/english/), where I was supervised by professor [Alexander Gasnikov](https://scholar.google.com/citations?user=AmeE8qkAAAAJ&hl=en).
