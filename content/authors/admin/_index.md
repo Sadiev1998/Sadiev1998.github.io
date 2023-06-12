@@ -10,7 +10,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: "mailto: abdurakhmon.sadiev@kaust.edu.sa"
+    link: mailto:abdurakhmon.sadiev@kaust.edu.sa
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?hl=en&user=g0CzD50AAAAJ
