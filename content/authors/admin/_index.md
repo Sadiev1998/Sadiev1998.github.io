@@ -26,7 +26,7 @@ organizations:
 education:
   courses:
     - year: 2022 - Present
-      course: "PhD Student in Computer Science "
+      course: "PhD in Computer Science "
       institution: "King Abdullah University of Science and Technology "
     - course: MSc in Applied Mathematics and Physics
       institution: Moscow Institute of Physics and Technology
