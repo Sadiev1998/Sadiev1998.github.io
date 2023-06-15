@@ -25,7 +25,7 @@ organizations:
     url: https://www.kaust.edu.sa/en
 education:
   courses:
-    - year: -28
+    - year: 2022
       course: "PhD Student in Computer Science "
       institution: "King Abdullah University of Science and Technology "
     - course: MSc in Applied Mathematics and Physics
