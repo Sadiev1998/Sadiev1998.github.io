@@ -30,10 +30,10 @@ education:
       institution: "King Abdullah University of Science and Technology "
     - course: MSc in Applied Mathematics and Physics
       institution: Moscow Institute of Physics and Technology
-      year: 2020 - 2022
+      year: 2022
     - course: BSc in Applied Mathematics and Physics
       institution: Moscow Institute of Physics and Technology
-      year: 2016 - 2020
+      year: 2020
 superuser: true
 status:
   ? icon
