@@ -31,6 +31,7 @@ abstract: High-probability analysis of stochastic first-order optimization
   variational inequalities and analyze the high-probability convergence of these
   methods.
 draft: false
+url_pdf: https://arxiv.org/pdf/2310.01860.pdf
 featured: false
 image:
   filename: ""
