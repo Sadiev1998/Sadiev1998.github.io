@@ -2,8 +2,6 @@
 title: "High-Probability Bounds for Stochastic Optimization and Variational
   Inequalities: the Case of Unbounded Variance"
 subtitle: ""
-publication_types:
-  - "3"
 authors:
   - Abdurakhmon Sadiev
   - Marina Danilova
@@ -31,6 +29,9 @@ abstract: "During recent years the interest of optimization and machine learning
   functional classes studied in stochastic optimization."
 draft: false
 url_pdf: https://arxiv.org/pdf/2302.00999.pdf
+publication_types:
+  - "1"
+featured: false
 tags: []
 categories: []
 projects: []
@@ -41,7 +42,6 @@ image:
 summary: ""
 lastmod: 2023-03-16T18:24:24+03:00
 publication: "*arXiv preprint arXiv:2302.00999*"
-featured: false
 date: 2023-02-02
 publishDate: 2023-02-02
 ---
