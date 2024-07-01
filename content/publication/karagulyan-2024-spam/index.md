@@ -21,6 +21,7 @@ abstract: Cross-device training is a crucial subfield of federated learning,
   method is the first in its kind, that does not require the smoothness of the
   objective and provably benefits from clients having similar data.
 draft: false
+url_pdf: https://arxiv.org/pdf/2405.20127.pdf
 featured: false
 image:
   filename: ""
