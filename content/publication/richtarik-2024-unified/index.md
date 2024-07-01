@@ -16,13 +16,14 @@ abstract: This paper presents a comprehensive analysis of a broad range of
   variance reduction and arbitrary sampling. A cornerstone of our general
   theoretical approach is a parametric assumption on the iterates, correction
   and control vectors. We establish a single theorem that ensures linear
-  convergence under this assumption and the $\mu$-strong convexity of the loss
+  convergence under this assumption and the μ-strong convexity of the loss
   function, and without the need to invoke smoothness. This integral theorem
   reinstates best known complexity and convergence guarantees for several
   existing methods which demonstrates the robustness of our approach. We expand
   our study by developing three new variants of SPPM, and through numerical
   experiments we elucidate various properties inherent to them.
 draft: false
+url_pdf: https://arxiv.org/pdf/2405.15941.pdf
 featured: false
 image:
   filename: ""
