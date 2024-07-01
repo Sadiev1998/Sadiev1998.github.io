@@ -1,18 +1,24 @@
 ---
-title: A Unified Theory of Stochastic Proximal Point Methods without Smoothness
+title: "SPAM: Stochastic Proximal Point Method with Momentum Variance Reduction
+  for Non-convex Cross-Device Federated Learning"
 publication_types:
   - "3"
 authors:
-  - Peter Richtárik
+  - Avetik Karagulyan
+  - Egor Shulgin
   - Abdurakhmon Sadiev
-  - Yury Demidovich
-publication: "*arXiv preprint arXiv:2405.15941*"
-abstract: This paper presents a comprehensive analysis of a broad range of variations of the stochastic proximal point method (SPPM). Proximal point methods have attracted considerable interest owing to their numerical stability and robustness against imperfect tuning, a trait not shared by the dominant stochastic gradient descent (SGD) algorithm. A framework of assumptions that we introduce encompasses methods employing techniques such as variance reduction and arbitrary sampling. A cornerstone of our general theoretical approach is a parametric assumption on the iterates, correction and control vectors. We establish a single theorem that ensures linear convergence under this assumption and the $\mu$-strong convexity of the loss function, and without the need to invoke smoothness. This integral theorem reinstates best known complexity and convergence guarantees for several existing methods which demonstrates the robustness of our approach. We expand our study by developing three new variants of SPPM, and through numerical experiments we elucidate various properties inherent to them.draft: false
-url_pdf: https://arxiv.org/pdf/2405.2405.15941.pdf
-featured: false
-image:
-  filename: ""
-  focal_point: ""
-  preview_only: false
-date: 2024-05-24T14:45:13.877Z
+  - Peter Richtárik
+publication: "*arXiv preprint arXiv:2405.20127*"
+abstract: Cross-device training is a crucial subfield of federated learning,
+  where the number of clients can reach into the billions. Standard approaches
+  and local methods are prone to issues such as client drift and insensitivity
+  to data similarities. We propose a novel algorithm (SPAM) for cross-device
+  federated learning with non-convex losses, which solves both issues. We
+  provide sharp analysis under second-order (Hessian) similarity, a condition
+  satisfied by a variety of machine learning problems in practice. Additionally,
+  we extend our results to the partial participation setting, where a cohort of
+  selected clients communicate with the server at each communication round. Our
+  method is the first in its kind, that does not require the smoothness of the
+  objective and provably benefits from clients having similar data.
+date: 2024-05-30T15:11:35.159Z
 ---
