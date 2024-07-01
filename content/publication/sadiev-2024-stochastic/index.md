@@ -17,6 +17,7 @@ abstract: Monotone inclusions have a wide range of applications, including
   discontinuous operators. We leverage it to derive linear convergence results
   in the strongly monotone setting.
 draft: false
+url_pdf: https://arxiv.org/pdf/2405.14255.pdf
 featured: false
 image:
   filename: ""
