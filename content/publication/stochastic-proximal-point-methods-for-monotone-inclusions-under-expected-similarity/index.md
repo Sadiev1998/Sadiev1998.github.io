@@ -19,7 +19,7 @@ abstract: Monotone inclusions have a wide range of applications, including
 draft: false
 featured: false
 image:
-  filename: featured
+  filename: ""
   focal_point: Smart
   preview_only: false
 date: 2024-05-23T14:45:13.877Z
